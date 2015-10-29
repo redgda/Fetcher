@@ -1,0 +1,8 @@
+{
+    "name": "redgda/fetcher",
+    "description": "Fetcher Library",
+    "license": "proprietary",
+    "require": {
+        "php": ">=5.3"
+    }
+}
